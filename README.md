@@ -1,6 +1,6 @@
 CSE4022-Natural-Language-Processing-Hands-on-Activities
 
-Project- 
+Project- https://github.com/ProfisPink/CSE4022-Natural-Language-Processing-Hands-on-Activities/blob/main/17BCE2245_NLP_Final%20Review.pdf
 
 Acitvity [29/8/2020] - NAT GEO Activity- https://github.com/ProfisPink/CSE4022-Natural-Language-Processing-Hands-on-Activities/blob/main/Teamno_1_17BCE2245_SridharSuraj(Stop_Words).ipynb
 
